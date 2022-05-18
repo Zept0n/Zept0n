@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=90">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:2a2a2a,100:8f2b00&height=300&section=header&text=&fontSize=90">
 </p>
 <p align="center">
 <a href="https://github.com/Zept0n/Zept0n">
